@@ -1,0 +1,4 @@
+Important Links for my research:
+1. https://www.genome.gov/about-genomics/fact-sheets  - NIH Fact Sheets about Genomics
+2. https://training.galaxyproject.org/training-material/ - Collection of tutorials developed and maintained by the worldwide Galaxy community
+
