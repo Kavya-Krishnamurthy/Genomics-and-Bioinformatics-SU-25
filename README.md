@@ -12,6 +12,11 @@ Topics include :
 I also got to exploreexplore how scientists detect genetic variation, align sequences, and annotate genes.
 The course ends with a look at exciting areas like ancient genomes and the active areas of genomic research.
 
+Pre-requisites
+- Familiarity with the command-line interface.
+- Working knowledge of at least one programming language, preferably Python/R.
+- Understanding of basic biological concepts, including the central dogma of molecular biology (DNA, RNA, and protein).
+
 Instructor 1: Saswat K. Mohanty
 Doctoral student, Penn State University
 
