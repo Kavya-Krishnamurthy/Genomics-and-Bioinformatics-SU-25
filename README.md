@@ -1,3 +1,5 @@
+*Genomics-and-Bioinformatics-SU-25*
+
 This four-week course is designed for master's and research students interested in the world of genomes and DNA by IISER-KAA (Alumini Association of Indian Institute of Science Education and Research (IISER) in Kolkata) 
 Through engaging lectures and interactive sessions, I will be learning how genomes are structured, sequenced, and analyzed. 
 
