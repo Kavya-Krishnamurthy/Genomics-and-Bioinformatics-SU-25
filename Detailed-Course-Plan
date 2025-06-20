@@ -1,0 +1,47 @@
+Detailed Course Plan:
+
+Lecture 1: Genomes 101: Structure, History, and Beyond the Double Helix				02nd July, '25 (Wed)
+    Introduction to Genome and Genomics
+    Branches of Genomics
+    Human Genome Project
+    Parts of the genome
+    non-B DNA structures
+
+Lecture 2: From Fragments to Chromosomes: Sequencing and Assembly Basics I		04th July, '25 (Fri)
+    Overview from sequencing to final assembly
+    Top-level assembly (contigs, scaffold, chromosome)
+    History of sequencing (Sanger to short-read to long-read)
+    Introduction to Genomic Databases
+
+Lecture 3: The Bioinformatics Toolkit: Files, Formats, and Packages					08th July, '25 (Tue)
+    Introduction to Bioinformatics
+    Common file types in bioinformatics
+    Working with different packages and file formats
+    Introduction to conda/mamba package managers
+
+Lecture 4: Reconstructing Genomes: Sequencing and Assembly Basics II				10th July, '25 (Thu)
+    Assembly versions/strains, Reference assemblies vs pangenomes
+    Methods of assembling genomes: De-novo and Reference-based
+    Linear vs Circular genomes
+
+Lecture 5: Inside the Genome Engine: Alignments and Annotations					15th July, '25 (Tue)	
+    Assembly and algorithms
+    Introduction to the world of k-mers
+    Alignments
+    Annotations
+
+Lecture 6: Variation Matters: Calling, Classifying, and Cataloging Mutations			17th July, '25 (Thu)
+    Variant calling
+    Types of structural variations and mutations
+    Variant databases such as dbSNP
+
+Lecture 7: Genomes in the Wild: Ancient DNA, Plants, and the Microbiome				23rd July, '25 (Wed)
+    More research directions:
+    Ancient Genomes
+    Plant Genomes
+    Microbiome metagenomics
+    eDNA analysis
+    Conservation Genomics
+    Final project discussion
+
+Most of the modules may involve hands-on modules at the end of the class related to the topic discussed, to be updated later! We will try our best to follow this schedule, however, any changes to this will be updated on the website as well as updated to the students through EMAIL. 
